@@ -1,0 +1,5 @@
+autogen
+dotenv
+google-generativeai 
+vertexai
+ag2[gemini]
